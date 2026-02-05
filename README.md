@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rohan 👨🏽‍💻</h1>
-<h3 align="center">A passionate Machine Learning Engineer from Pune, Maharashtra, India</h3>
+<h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
 ![Profile Picture](profile.png)
 
@@ -24,8 +24,6 @@
 <a href="https://twitter.com/ai_with_rohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ai_with_rohan" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rohan-patil-ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-patil-ai" height="30" width="40" /></a>
 <a href="https://instagram.com/ai.with.rohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ai.with.rohan" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/codewithrohan5556/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codewithrohan5556" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/ai_with_rohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ai_with_rohan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
