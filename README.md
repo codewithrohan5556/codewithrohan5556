@@ -5,10 +5,10 @@
 
 - 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **Deep Learning, Pytorch, System Design, Large Language Models**
+- 🌱 I’m currently learning **Deep Learning, Pytorch, AI System Design, Large Language Models**
 
-- 👯 I’m looking to collaborate on **Artificial Intelligence, Machine Learning and Deep Learning**
-
+- 👯 I’m looking to collaborate on **Generative AI, Machine Learning and Deep Learning**
+ 
 - 🤝 I’m looking for help with **Artificial Intelligence and Machine Learning related projects**
 
 - 👨‍💻 All of my projects are available at [Kaggle](https://www.kaggle.com/codewithrohan) ,[Github](https://github.com/codewithrohan5556/Rohan-profile/tree/main)
