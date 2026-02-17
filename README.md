@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [Kaggle](https://www.kaggle.com/codewithrohan) ,[Github](https://github.com/codewithrohan5556/Rohan-profile/tree/main)
 
-- 💬 Ask me about **Machine Learning, NLP, Data Structures and Algorithms**
+- 💬 Ask me about **Machine Learning, NLP,Gen AI, Deep Learning, Large Language Models**
 
 - 📫 How to reach me **rohan.ai.5556@gmail.com**
   
