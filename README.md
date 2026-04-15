@@ -18,13 +18,6 @@
 - 📫 How to reach me **rohan.ai.5556@gmail.com**
   
 - 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1HUjHkzrpKkQAF3T20IxTiMCgX5vZU13S/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ai_with_rohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ai_with_rohan" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rohan-patil-ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-patil-ai" height="30" width="40" /></a>
-<a href="https://instagram.com/ai.with.rohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ai.with.rohan" height="30" width="40" /></a>
-</p>
 <!-- Header -->
 <h3 align="left">🛠️ Technical Skills</h3>
 
