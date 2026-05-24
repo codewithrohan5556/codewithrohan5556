@@ -5,7 +5,7 @@
 
 - 🌱 I'm currently learning **LangChain, LangGraph, CrewAI, MCP, AI System Design, Large Language Models**
 
-- 👯 I'm looking to opportunities in **Generative AI and Agentic AI**
+-  I'm looking to opportunities in **Generative AI and Agentic AI**
  
 - 🤝 I'm looking for help with **Generative and Agentic AI related projects**
 
