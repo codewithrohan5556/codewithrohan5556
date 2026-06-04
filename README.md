@@ -34,7 +34,6 @@
 ![MCP](https://img.shields.io/badge/MCP-00599C?style=for-the-badge&logo=python&logoColor=white)
 ![Tavily](https://img.shields.io/badge/Tavily-00A86B?style=for-the-badge&logo=python&logoColor=white)
 ![RAGAS](https://img.shields.io/badge/RAGAS-800080?style=for-the-badge&logo=python&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
 <!-- Models & APIs -->
 ### 🧠 Models & APIs
@@ -66,6 +65,7 @@
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
 <!-- Databases & Vector Stores -->
 ### 🗄️ Databases & Vector Stores
