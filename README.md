@@ -30,10 +30,8 @@
 ![LangChain](https://img.shields.io/badge/LangChain-FFD43B?style=for-the-badge&logo=python&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-34A853?style=for-the-badge&logo=python&logoColor=white)
 ![LangSmith](https://img.shields.io/badge/LangSmith-FF4B4B?style=for-the-badge&logo=python&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF6F00?style=for-the-badge&logo=python&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-00599C?style=for-the-badge&logo=python&logoColor=white)
 ![Tavily](https://img.shields.io/badge/Tavily-00A86B?style=for-the-badge&logo=python&logoColor=white)
-![RAGAS](https://img.shields.io/badge/RAGAS-800080?style=for-the-badge&logo=python&logoColor=white)
 
 <!-- Models & APIs -->
 ### 🧠 Models & APIs
@@ -70,7 +68,6 @@
 <!-- Databases & Vector Stores -->
 ### 🗄️ Databases & Vector Stores
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-800080?style=for-the-badge&logo=python&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-FFD700?style=for-the-badge&logo=pinecone&logoColor=black)
