@@ -37,7 +37,7 @@
 ### 🧠 Models & APIs
 ![OpenAI API](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-1E3A8A?style=for-the-badge&logo=anthropic&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-API-black)
+![Groq](https://img.shields.io/badge/Groq-LLM%20Inference-F55036?style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 <!-- Machine & Deep Learning -->
