@@ -42,11 +42,11 @@
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/🕸️_LangGraph-1C3C3C?style=for-the-badge&logoColor=white)
 ![LangSmith](https://img.shields.io/badge/🧪_LangSmith-1C3C3C?style=for-the-badge&logoColor=white)
+![Langfuse](https://img.shields.io/badge/🔭_Langfuse-1C3C3C?style=for-the-badge&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/🤖_CrewAI-FF5A1F?style=for-the-badge&logoColor=white)
 ![MCP](https://img.shields.io/badge/🔌_MCP-00599C?style=for-the-badge&logoColor=white)
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic API](https://img.shields.io/badge/Anthropic_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 **📊 Machine & Deep Learning**
 
@@ -65,7 +65,6 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/🎨_ChromaDB-800080?style=for-the-badge&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/🌲_Pinecone-1B1B1F?style=for-the-badge&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
 
 **⚙️ Backend**
 
